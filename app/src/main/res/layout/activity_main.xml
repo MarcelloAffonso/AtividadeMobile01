@@ -15,7 +15,7 @@
         android:layout_height="0dp"
         android:text="@string/pais_local"
         android:textSize="@dimen/dimenTextSize"
-        android:layout_gravity="center"
+        android:gravity="center"
         android:layout_weight="1"/>
 
     <ImageView
@@ -42,7 +42,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:textSize="@dimen/dimenTextSize"
-        android:layout_gravity="center"
+        android:gravity="center"
         android:text="@string/comida_local" />
 
 </LinearLayout>
